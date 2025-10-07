@@ -12,7 +12,7 @@ Database Version am using: Oracle 23ai
 ## Screenshots
 
 ### Task 1: PDB Creation
-[PDB Creation] Screenshot 2025-10-07 122349.png
+[PDB Creation] ![image alt](https://github.com/ShamiKaregaChris/oracle-pdb-assignment/blob/11f82ab9e6cf17af39c1e3cd7b7c1fdee2eddda0/Screenshot%202025-10-07%20122349.png)
 
 ### Task 2: PDB Deletion
 ![PDB Deletion](./screenshots/task2-pdb-deletion.png)
