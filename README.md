@@ -17,9 +17,6 @@ Database Version am using: Oracle 23ai
 ### Task 2: PDB Creation and Deletion
 ![image alt] (https://github.com/ShamiKaregaChris/oracle-pdb-assignment/blob/7529320b4011fe03e97639db2d950432e3deb8f6/Screenshot%202025-10-07%20122953.png)
 
-
-![image alt] (https://github.com/ShamiKaregaChris/oracle-pdb-assignment/blob/23e08be585de6e10e27a96a36dc0d354cd43d6fd/Screenshot%202025-10-07%20123446.png)
-
 ### Task 3: Database Actions
 
 ## Issues and Solutions
