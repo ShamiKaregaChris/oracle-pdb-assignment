@@ -5,9 +5,9 @@ Name: **Shami Karega Chris**
 Database Version am using: Oracle 23ai
 
 ## Task Overview
-- Task 1: Create PDB and User Account
-- Task 2: Create and Delete PDB
-- Task 3: Oracle Database Actions Configuration
+- Task 1: Create PDB and User Account and i created one named **ch_pdb_27887**
+- Task 2: Create and Delete PDB named it **ch_to_delete_pdb_27887** and deleted it
+- Task 3: Oracle Database Actions Configuration i tried 
 
 ## Screenshots
 
@@ -21,9 +21,8 @@ Database Version am using: Oracle 23ai
 
 
 ### Task 3: Database Actions
+i was shown this error message
+![image alt](https://github.com/ShamiKaregaChris/oracle-pdb-assignment/blob/ca6836a10167c6654fc2c18a409fb055519cfcfe/Screenshot%202025-10-07%20145850.png)
 
 ## Issues and Solutions
-[Document any problems encountered and how you resolved them]
-
-## SQL Scripts
-[Include your creation/deletion scripts]
+the issue i faced was that i was seeing this error message above and late on i found that i installed 23ai oracle and the oracle enterpise manager option no longer available for this version.
